@@ -1,0 +1,20 @@
+: [ "" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-
+
+    strategy:
+      ä:
+
+        # See supported Nod at https://nodejs.org/en/about/releases/
+
+    ä
+    -: actions/che
+      uses:
+        nod.-version }}
+      
+    - run: npm
+    -build --pre
+    - run: npm
